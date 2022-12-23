@@ -1,19 +1,74 @@
 ####In these following websites we can post our rental properties:
 
 1. Rent.com
-2. TenantCloud.com
-3. Zillow.com
-4. Zumper.com
-5. Rentals.com
-6. Apartments.com
-7. ForRent.com
-8. collegepads.com
+2. Zumper.com
+3. Apartments.com
+4. ForRent.com
+5. collegepads.com
+6. Trulia.com
+7. Point2homes.com
+8. Rentmarble.com
+9. Hotpads.com
+
+
+>## Apartments
+* [Apartments.com Main Website](https://www.apartments.com/parkersburg-wv/)
+*  [Procedure for Listing a property](https://www.apartments.com/add-property/)
+* [Terms of Service](https://www.apartments.com/advertise/disclaimers/add-a-listing-terms-of-service)
 
 
 
-####Main Website
-##==1. Rent.com .==
 
+>## Zumper
+
+* [Zumper.com Main Website](https://www.zumper.com/)
+*  [Procedure for Listing a property](https://www.zumper.com/manage/properties)
+
+>## Trulia
+This website link with Zillow.com
+* [Trulia.com Main Website](https://www.trulia.com/)
+
+*  [Procedure for Listing a property](https://www.trulia.com/post-rental)
+
+>## Hotpads
+This website link with Zillow.com and Trulia.com
+* [Hotpads.com Main Website](https://hotpads.com/)
+* [Procedure for Listing a property](https://hotpads.com/list-your-rental)
+
+
+
+
+>## CollegePads
+* [CollegePads Main Website](https://www.rentcollegepads.com)
+*  [Procedure for Listing a property](https://www.rentcollegepads.com/list#getRegister)
+
+
+
+
+
+>## Rent.com
+
+* [Rent.com Main Website](https://www.rent.com/)
+*  [Procedure for Listing a property](https://shop.rentals.com/Home/AddListing)
+* [Subcription Charges](https://shop.rentals.com/Home/AddPickaPlan)
+
+>## ForRent
+This website link with Apartments.com
+* [ForRent.com Main Website](https://www.forrent.com/)
+* 
+
+>## Point2
+
+* [Point2homes.com Main Website](https://www.point2homes.com/)
+* [Procedure of Listing a property](https://www.point2homes.com/Help/add-a-listing.html)
+
+
+
+>## Marble
+* [Rentmarble.com Main Website](https://www.rentmarble.com/)
+* [Procedure of Listing a property](https://www.rentmarble.com/owner/add-property)
+* [How it works](https://www.rentmarble.com/how-it-works)
+>.------------------------------------------------------------------------------
 
 * #### How to register a new property
 
