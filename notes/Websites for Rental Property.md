@@ -36,4 +36,10 @@
 ### Guesty.com
 [Guesty Website](https://www.guesty.com/request-a-demo/?last_click=myvr)
 
+[Guesty Features](https://www.guesty.com/features/)
+
+
 [myvr.com](https://blog.myvr.com/facebook-page-post-examples/)
+
+### HCB.COM
+[Main Website](https://hcbpropertieswv.com/rental-properties/)
