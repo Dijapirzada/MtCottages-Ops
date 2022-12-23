@@ -35,3 +35,5 @@
 
 ### Guesty.com
 [Guesty Website](https://www.guesty.com/request-a-demo/?last_click=myvr)
+
+[myvr.com](https://blog.myvr.com/facebook-page-post-examples/)
