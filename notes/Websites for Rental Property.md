@@ -111,7 +111,22 @@ Select Plan
        * Add Minimum and Maximum lease duration
        * Add Marketing description
 	8.  Upload stunning photos
+  
 
+### WV Rentals and porperty management
+[WV Rental Website](http://wvrentals.biz/?fbclid=IwAR31XABsATDLsRkRa5LHtENccEo9YQpo-YknB3JCWN0FCyYm8qfJJpKLQu8)
+
+### Guesty.com
+[Guesty Website](https://www.guesty.com/request-a-demo/?last_click=myvr)
+
+[Guesty Features](https://www.guesty.com/features/)
+
+
+[myvr.com](https://blog.myvr.com/facebook-page-post-examples/)
+
+### HCB.COM
+[Main Website](https://hcbpropertieswv.com/rental-properties/)
+=======
 * #### Subcription of Listing Properties
 Select Plan
 * Free
