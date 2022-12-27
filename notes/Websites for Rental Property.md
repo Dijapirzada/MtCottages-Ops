@@ -9,6 +9,15 @@
 7. Point2homes.com
 8. Rentmarble.com
 9. Hotpads.com
+10. byowner.com
+11. Rulisting.com
+12. Rentberry.com
+13. RentDigs.com
+14. Sublet.com
+15. Expedia.com
+16. Flipkey.com
+17. Onefinestay.com
+18. 
 
 
 >## Apartments
@@ -41,12 +50,13 @@ This website link with Zillow.com and Trulia.com
 >## CollegePads
 * [CollegePads Main Website](https://www.rentcollegepads.com)
 *  [Procedure for Listing a property](https://www.rentcollegepads.com/list#getRegister)
+*  [Host Reviews](https://www.trustpilot.com/review/www.forrent.com)
 
 
 
 
 
->## Rent.com
+>## Rent
 
 * [Rent.com Main Website](https://www.rent.com/)
 *  [Procedure for Listing a property](https://shop.rentals.com/Home/AddListing)
@@ -55,7 +65,7 @@ This website link with Zillow.com and Trulia.com
 >## ForRent
 This website link with Apartments.com
 * [ForRent.com Main Website](https://www.forrent.com/)
-* 
+* [Procedure for Listing a property](https://www.apartments.com/add-property/?provider=frc)
 
 >## Point2
 
@@ -68,6 +78,60 @@ This website link with Apartments.com
 * [Rentmarble.com Main Website](https://www.rentmarble.com/)
 * [Procedure of Listing a property](https://www.rentmarble.com/owner/add-property)
 * [How it works](https://www.rentmarble.com/how-it-works)
+
+
+>## ByOwner
+
+* [ByOwner.com Main Website](https://www.byowner.com/)
+* [Procedure of Listing a Property](https://www.byowner.com/listing/rental/add)
+* [Commission Charges](https://www.byowner.com/commission-saving-calculator)
+
+>## Rulisting
+* [Rulisting.com Main Website](https://rulisting.com/)
+* [Procedure of Listing a Property](https://rulisting.com/profile/owner)
+* [Term of Service](https://rulisting.com/termsofservice)
+
+
+>## Rentberry
+* [RentBerry.com Main Website](https://rentberry.com)
+* [Procedure of Listing a Property](https://rentberry.com/property)
+* [Property Listing Requirements](https://help.rentberry.com/en/articles/2467640-property-listing-requirements)
+
+>## RentDigs
+* [Rentdigs.com Main Website](https://www.rentdigs.com/)
+* [Procedure of Listing a Property](https://www.rentdigs.com/owner/addlisting.aspx?type=House)
+* [Keypoints](https://www.rentdigs.com/common/ownerinfo.aspx)
+
+>## Sublet
+* [Sublet.com Main Website](https://www.sublet.com)
+* [Procedure of Listing a Property](https://www.sublet.com/landlord/sign_up)
+
+
+>## Expedia
+Expedia.com Link with Expedia group 
+* [Expedia.com Main Website](https://www.expedia.com)
+* [Procedure of Listing a Property](https://apps.expediapartnercentral.com/en_US/list/location)
+* [Term of Service](https://welcome.expediagroup.com/en/privacy-policy?_ga=2.63587307.552964010.1672035231-214199339.1672035231)
+
+>## Homestay
+* [Homestay.com Main Website](https://www.homestay.com)
+* [Procedure of Listing a Property](https://www.homestay.com/listing/wizard/home)
+
+>## Flipkey
+
+* [FlipKey.com Main Website](https://www.flipkey.com/)
+* [Procedure of Listing a Property](https://rentals.tripadvisor.com/register?m=20348)
+* [Keypoints](https://www.tripadvisor.com/RentalInsights/property-manager-services-2)
+
+>## OneFineStay
+* [Onefinestay.com Main Website](https://www.onefinestay.com/)
+* [Procedure of Listing a Property](https://www.onefinestay.com/list-your-home/?ref=header)
+>## Oodle
+* [oodle.com Main Website](https://apartments.oodle.com/)
+* []()
+
+
+
 >.------------------------------------------------------------------------------
 
 * #### How to register a new property
@@ -90,7 +154,7 @@ Select Plan
 
 >!
 
-##==2. TenantCloud.com .==
+##2. TenantCloud Software
 
 * #### How to register a new property
 
