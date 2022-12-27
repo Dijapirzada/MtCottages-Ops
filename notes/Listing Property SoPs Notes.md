@@ -31,6 +31,7 @@
 * [Point2homes.com](https://www.point2homes.com/?search_type=residential)
 * [Rentmarble.com](https://www.rentmarble.com/)
 *  [Hotpads.com](https://hotpads.com/)
+*  [Tripadviser](https://www.tripadvisor.com/)
 
 ### **Recipes**
 ### **Booking.com**
@@ -131,3 +132,13 @@ This website link with Apartments.com
 
 ### HCB.COM 
 [Main Website](https://hcbpropertieswv.com/rental-properties/)
+
+### Tripadviser
+[Mainwebsite](https://www.tripadvisor.com/)
+
+[GuideLines of Lisings](https://www.tripadvisor.com/Trust-lvz7RK0Xs9UI-Listings_policies_and_guidelines.html)
+  
+  [Registeration](https://rentals.tripadvisor.com/register?m=20348)
+  * Its free to publish listings. They deduct only 3% from the guest payment.
+  
+  * Flipkey is also related to Tripadviser [Main Website](https://www.flipkey.com/)
